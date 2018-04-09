@@ -573,7 +573,7 @@ void add_edge( struct matrix * points,
 void draw_lines( struct matrix * points, screen s, color c) {
 
   if ( points->lastcol < 2 ) {
-    printf("Need at least 2 points to draw a line!\n");
+    //printf("Need at least 2 points to draw a line!\n");
     return;
   }
  

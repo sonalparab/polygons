@@ -1,0 +1,26 @@
+ident
+torus
+100 260 0 10 60
+torus
+250 260 0 10 60
+torus
+400 260 0 10 60
+rotate
+x 20
+apply
+ident
+sphere
+100 150 0 50
+sphere
+250 200 0 50
+sphere
+400 250 0 50
+sphere
+100 275 0 50
+sphere
+250 325 0 50
+sphere
+400 375 0 50
+display
+save
+basketballs.png
